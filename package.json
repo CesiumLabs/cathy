@@ -1,0 +1,34 @@
+{
+  "name": "cathy.js",
+  "version": "2.0.0",
+  "description": "AI chatbot based on simple ML.",
+  "main": "Cathy.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJustNine/cathy.git"
+  },
+  "keywords": [
+    "cathy",
+    "cathy.js",
+    "chatbot",
+    "aiml",
+    "ai",
+    "chatbot",
+    "ai-chatbot"
+  ],
+  "author": "ItsJustNine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsJustNine/cathy/issues"
+  },
+  "homepage": "https://github.com/ItsJustNine/cathy#readme",
+  "dependencies": {
+    "ector": "^1.0.1"
+  },
+  "devDependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
